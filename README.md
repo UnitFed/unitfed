@@ -63,8 +63,9 @@ Le projet est **open source**, contributions bienvenues quand l’alpha sera fon
 
 ## 📸 Captures d’écran (Exemple)
 
-![Screenshot exemple 1](./assets/screenshot1.png)  
-![Screenshot exemple 2](./assets/screenshot2.png)  
+- En cours de construction...
+<!-- ![Screenshot exemple 1](./assets/screenshot1.png)  
+![Screenshot exemple 2](./assets/screenshot2.png)   -->
 
 ---
 
