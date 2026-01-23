@@ -57,7 +57,7 @@
         <a href="forgot-password.html">Mot de passe oublié ?</a>
       </p>
       <p class="mb-0">
-        <a href="register.html" class="text-center">Inscription</a>
+        <a href="/register" class="text-center">Inscription</a>
       </p>
     </div>
     <!-- /.card-body -->
