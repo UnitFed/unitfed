@@ -239,7 +239,5 @@
         </div><!-- /.container-fluid -->
     </div>
     <!-- /.content -->
-
-    <!-- TEST WEBHOOK 2 Discord -->
 </div>
 @endsection
