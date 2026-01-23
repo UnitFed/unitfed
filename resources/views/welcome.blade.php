@@ -240,6 +240,6 @@
     </div>
     <!-- /.content -->
 
-    <!-- TEST WEBHOOK 1 -->
+    <!-- TEST WEBHOOK 2 Discord -->
 </div>
 @endsection
