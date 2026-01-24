@@ -16,6 +16,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="{{ asset('css/main.css') }}">
+
+  @stack('css')
+
   <body class="hold-transition layout-top-nav">
   <div class="wrapper">
 
@@ -44,5 +47,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <script src="{{ asset('js/bootstrap.bundle.min.js') }}"></script>
   <!-- AdminLTE App -->
   <!-- <script src="{{ asset('js/adminlte.js') }}"></script> -->
+
+  @stack('js')
+
 </body>
 </html>
