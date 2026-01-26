@@ -32,6 +32,7 @@
                                     <th>Rechargeable</th>
                                     <th>Status</th>
                                     <th>Origine</th>
+                                    <th>Action</th>
                                 </tr>
                                 </thead>
                                 <tbody>
@@ -43,6 +44,9 @@
                                         <td>No</td>
                                         <td>Locale</td>
                                         <td>Active</td>
+                                        <td>
+                                            <a href="/units/unites/update" class="btn btn-info btn-sm">Modifier</a>
+                                        </td>
                                     </tr>
 
                                     <tr>
@@ -53,6 +57,9 @@
                                         <td>Yes</td>
                                         <td>Fédérée</td>
                                         <td>Active</td>
+                                        <td>
+                                            <a href="/units/unites/update" class="btn btn-info btn-sm">Modifier</a>
+                                        </td>
                                     </tr>
 
                                     <tr>
@@ -63,6 +70,9 @@
                                         <td>No</td>
                                         <td>Locale</td>
                                         <td>Active</td>
+                                        <td>
+                                            <a href="/units/unites/update" class="btn btn-info btn-sm">Modifier</a>
+                                        </td>
                                     </tr>
 
                                     <tr>
@@ -73,7 +83,10 @@
                                         <td>Yes</td>
                                         <td>Locale</td>
                                         <td>Paused</td>
-                                    </tr>
+                                        <td>
+                                            <a href="/units/unites/update" class="btn btn-info btn-sm">Modifier</a>
+                                        </td>
+                                    </tr>                                    
 
                                     <tr>
                                         <td>💳</td>
@@ -83,6 +96,9 @@
                                         <td>Yes</td>
                                         <td>Fédérée</td>
                                         <td>Active</td>
+                                        <td>
+                                            <a href="/units/unites/update" class="btn btn-info btn-sm">Modifier</a>
+                                        </td>
                                     </tr>
 
                                     <tr>
@@ -93,6 +109,9 @@
                                         <td>No</td>
                                         <td>Locale</td>
                                         <td>Active</td>
+                                        <td>
+                                            <a href="/units/unites/update" class="btn btn-info btn-sm">Modifier</a>
+                                        </td>
                                     </tr>
 
                                     <tr>
@@ -103,6 +122,9 @@
                                         <td>No</td>
                                         <td>Fédérée</td>
                                         <td>Depleted</td>
+                                        <td>
+                                            <a href="/units/unites/update" class="btn btn-info btn-sm">Modifier</a>
+                                        </td>
                                     </tr>
 
                                     <tr>
@@ -113,6 +135,9 @@
                                         <td>Yes</td>
                                         <td>Locale</td>
                                         <td>Active</td>
+                                        <td>
+                                            <a href="/units/unites/update" class="btn btn-info btn-sm">Modifier</a>
+                                        </td>
                                     </tr>
 
                                     <tr>
@@ -123,6 +148,9 @@
                                         <td>No</td>
                                         <td>Locale</td>
                                         <td>Active</td>
+                                        <td>
+                                            <a href="/units/unites/update" class="btn btn-info btn-sm">Modifier</a>
+                                        </td>
                                     </tr>
 
                                     <tr>
@@ -133,6 +161,9 @@
                                         <td>Yes</td>
                                         <td>Fédérée</td>
                                         <td>Active</td>
+                                        <td>
+                                            <a href="/units/unites/update" class="btn btn-info btn-sm">Modifier</a>
+                                        </td>
                                     </tr>
                                 </tbody>
                             </table>

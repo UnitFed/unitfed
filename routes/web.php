@@ -14,6 +14,10 @@ Route::group(['prefix' => 'units'], function () {
         return view('units.unites.add');
     });
 
+    Route::get('/unites/update', function () {
+        return view('units.unites.update');
+    });
+
 });
 
 // Web Routes UNITS
