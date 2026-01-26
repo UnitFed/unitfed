@@ -9,7 +9,11 @@ Route::group(['prefix' => 'units'], function () {
     Route::get('/unites/all', function () {
         return view('units.unites.all');
     });
-    
+
+    Route::get('/unites/add', function () {
+        return view('units.unites.add');
+    });
+
 });
 
 // Web Routes UNITS
