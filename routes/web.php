@@ -18,6 +18,22 @@ Route::group(['prefix' => 'units'], function () {
         return view('units.unites.update');
     });
 
+    // Web Routes WALLETS
+
+    Route::get('/wallets/all', function () {
+        return view('units.wallets.all');
+    });
+
+    Route::get('/wallets/add', function () {
+        return view('units.wallets.add');
+    });
+
+    Route::get('/wallets/update', function () {
+        return view('units.wallets.update');
+    });
+
+    // Web Routes WALLETS
+
 });
 
 // Web Routes UNITS
