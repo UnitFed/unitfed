@@ -17,7 +17,6 @@
                     <div class="card">
                         <div class="card-header">
                             <h3 class="card-title text-uppercase mt-2">Liste des wallets</h3>
-                            <a href="/units/wallets/add" class="btn btn-primary p-1 float-right">Créer un wallet</a>
                         </div>
                         <!-- /.card-header -->
                         <div class="card-body">
