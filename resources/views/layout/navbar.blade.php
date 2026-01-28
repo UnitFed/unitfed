@@ -18,7 +18,7 @@
             <ul aria-labelledby="dropdownSubMenu1" class="dropdown-menu border-0 shadow">
               <li><a href="/units/unites/all" class="dropdown-item">Unités</a></li>
               <li><a href="/units/wallets/all" class="dropdown-item">Wallet</a></li>
-              <li><a href="#" class="dropdown-item">Transactions</a></li>
+              <li><a href="/units/transactions/all" class="dropdown-item">Transactions</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown">

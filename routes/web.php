@@ -6,6 +6,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::group(['prefix' => 'units'], function () {
 
+    // Web Routes UNITS
+
     Route::get('/unites/all', function () {
         return view('units.unites.all');
     });
@@ -17,6 +19,8 @@ Route::group(['prefix' => 'units'], function () {
     Route::get('/unites/update', function () {
         return view('units.unites.update');
     });
+
+    // Web Routes UNITS
 
     // Web Routes WALLETS
 
@@ -33,6 +37,22 @@ Route::group(['prefix' => 'units'], function () {
     });
 
     // Web Routes WALLETS
+
+    // Web Routes TRANSACTIONS
+
+    Route::get('/transactions/all', function () {
+        return view('units.transactions.all');
+    });
+
+    Route::get('/transactions/add', function () {
+        return view('units.transactions.add');
+    });
+
+    Route::get('/transactions/update', function () {
+        return view('units.transactions.update');
+    });
+
+    // Web Routes TRANSACTIONS
 
 });
 
